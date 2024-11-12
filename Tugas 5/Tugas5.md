@@ -5,53 +5,52 @@ Kelas : INF A1
 Tugas 5
 
 A.	K-Nearest Neighbours (KNN). Lakukan praktik dari https://youtu.be/4zARMcgc7hA?si=x6RoHQXFF4NY76X8 , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:<br>
-1.	Persiapan sample dataset
 
+1.	Persiapan sample dataset<br>
 ![Capture1](https://github.com/user-attachments/assets/1a50a103-5dfa-40bc-9f0d-7aeb27b62879)
 
-3.	Visualisasi dataset
- 
+2.	Visualisasi dataset<br>
+![Capture2](https://github.com/user-attachments/assets/82ad0c6c-3621-4d0c-84d3-5b7de7e10d3d)
 
-4.	Pengantar classification dengan K-Nearest Neighbours | KNN
+3.	Pengantar classification dengan K-Nearest Neighbours | KNN<br>
 Algoritma K-Nearest Neighbor (KNN) adalah algoritma machine learning yang bersifat non-parametric dan lazy learning. Metode yang bersifat non-parametric memiliki makna bahwa metode tersebut tidak membuat asumsi apa pun tentang distribusi data yang mendasarinya. Dengan kata lain, tidak ada jumlah parameter atau estimasi parameter yang tetap dalam model, terlepas data tersebut berukuran kecil ataupun besar.
 Algoritma non-parametric seperti KNN menggunakan sejumlah parameter yang fleksibel, dan jumlah parameter seringkali bertambah seiring data yang semakin banyak. Algoritma non-parametric secara komputasi lebih lambat, tetapi membuat lebih sedikit asumsi tentang data. Algoritma KNN juga bersifat lazy learning, yang artinya tidak menggunakan titik data training untuk membuat model. Singkatnya pada algoritma KNN tidak ada fase training, kalaupun ada juga sangat minim.
 
-5.	Preprocessing dataset dengan Label Binarizer
- 
- 
+4.	Preprocessing dataset dengan Label Binarizer<br>
+![Capture3](https://github.com/user-attachments/assets/4b25347f-171c-47ce-b562-34cd9f593aa9) <br>
+![Capture4](https://github.com/user-attachments/assets/7a177355-cc55-4798-abca-2583757ec691)
+
+5.	Training KNN Classification Model<br>
  
 
-6.	Training KNN Classification Model
+6.	Prediksi dengan KNN Classification Model
  
 
-7.	Prediksi dengan KNN Classification Model
+7.	Visualisasi Nearest Neighbours
  
 
-8.	Visualisasi Nearest Neighbours
+8.	Kalkulasi jarak dengan Euclidean Distance
  
 
-9.	Kalkulasi jarak dengan Euclidean Distance
+9.	Evaluasi KNN Classification Model | Persiapan testing set
  
 
-10.	Evaluasi KNN Classification Model | Persiapan testing set
+10.	Evaluasi model dengan accuracy score
  
 
-11.	Evaluasi model dengan accuracy score
+11.	Evaluasi model dengan precision score
  
 
-12.	Evaluasi model dengan precision score
+12.	Evaluasi model dengan recall score
  
 
-13.	Evaluasi model dengan recall score
+13.	Evaluasi model dengan F1 score
  
 
-14.	Evaluasi model dengan F1 score
+14.	Evaluasi model dengan classification report
  
 
-15.	Evaluasi model dengan classification report
- 
-
-16.	Evaluasi model dengan Mathews Correlation Coefficient
+15.	Evaluasi model dengan Mathews Correlation Coefficient
  
 
 B.	Support Vector Machine (SVM). Lakukan praktik dari https://youtu.be/z69XYXpvVrE?si=KR_hDSlwjGIMcT0w , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:
